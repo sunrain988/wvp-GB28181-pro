@@ -166,7 +166,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.73</version>
+			<version>1.2.83</version>
 		</dependency>
 
 		<!--Guava是一种基于开源的Java库-->
